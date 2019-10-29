@@ -1,9 +1,9 @@
 # Introduction to Git
-From the learning materials you have learned that Git is a tool used for Software Version Control (SVC). This is useful for single developer projects as well as larger teams. Being able to develop and test out new features without ¡°corrupting¡± the main codebase is a really useful. It is also very helpful to be able to rollback code changes that caused things to break.
+From the learning materials you have learned that Git is a tool used for Software Version Control (SVC). This is useful for single developer projects as well as larger teams. Being able to develop and test out new features without "corrupting" the main codebase is a really useful. It is also very helpful to be able to rollback code changes that caused things to break.
 
 For this assignment you will be getting your hands dirty and actually implement the commands you learned this week. At the end you will have a repository (repo) that has a particular structure and history. You will need to follow the instructions exactly in order for your repo to match the required output. 
 
-This is an all or nothing activity, but don¡¯t let that scare you. At the end of this document you will find the expected structure. If you reach the end of the instructions and your repo does not match the expected output, just start over and pay close attention to the instructions.
+This is an all or nothing activity, but don't let that scare you. At the end of this document you will find the expected structure. If you reach the end of the instructions and your repo does not match the expected output, just start over and pay close attention to the instructions.
 
 ### Create a new GitHub repo
 1. Log into [github.com](https://www.github.com)
